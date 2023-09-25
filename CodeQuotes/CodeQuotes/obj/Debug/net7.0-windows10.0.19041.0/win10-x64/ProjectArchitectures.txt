@@ -1,0 +1,1 @@
+C:\Udemy\MAUI\CodeQuotesMAUI\CodeQuotes\CodeQuotes\CodeQuotes.csproj;x64

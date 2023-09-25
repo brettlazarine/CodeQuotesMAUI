@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vt1kELTA9/JKE/4fYz/FZMPVla9hefwIiJU7HsehU5TgQa24T1FxZAApSlxM3OX2219Ad7r/jmXpBzrZ5hl53g==",
+  "dgSpecHash": "fvKRSPMGIwlCtC012Q0fBt5u564CvKZ0upC9eBlTkSzcWCKl17vL8Bd2zCL/LB+ZVluT2hOsCyQbALRKhogqEA==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\MAUI\\CodeQuotesMAUI\\CodeQuotes\\CodeQuotes\\CodeQuotes.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jblaz\\.nuget\\packages\\colorutility\\1.0.0\\colorutility.1.0.0.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

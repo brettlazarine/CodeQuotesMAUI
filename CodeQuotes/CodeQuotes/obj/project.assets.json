@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net7.0-android33.0": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -1927,6 +1936,15 @@
       }
     },
     "net7.0-android33.0/android-arm": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -3852,6 +3870,15 @@
       }
     },
     "net7.0-android33.0/android-arm64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -5777,6 +5804,15 @@
       }
     },
     "net7.0-android33.0/android-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -7702,6 +7738,15 @@
       }
     },
     "net7.0-android33.0/android-x86": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -9627,6 +9672,15 @@
       }
     },
     "net7.0-android33.0/iossimulator-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -11552,6 +11606,15 @@
       }
     },
     "net7.0-android33.0/maccatalyst-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -13477,6 +13540,15 @@
       }
     },
     "net7.0-android33.0/win10-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -15402,6 +15474,15 @@
       }
     },
     "net7.0-ios16.1": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -15586,6 +15667,15 @@
       }
     },
     "net7.0-ios16.1/android-arm": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -15770,6 +15860,15 @@
       }
     },
     "net7.0-ios16.1/android-arm64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -15954,6 +16053,15 @@
       }
     },
     "net7.0-ios16.1/android-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16138,6 +16246,15 @@
       }
     },
     "net7.0-ios16.1/android-x86": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16322,6 +16439,15 @@
       }
     },
     "net7.0-ios16.1/iossimulator-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16506,6 +16632,15 @@
       }
     },
     "net7.0-ios16.1/maccatalyst-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16690,6 +16825,15 @@
       }
     },
     "net7.0-ios16.1/win10-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16874,6 +17018,15 @@
       }
     },
     "net7.0-maccatalyst16.1": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17058,6 +17211,15 @@
       }
     },
     "net7.0-maccatalyst16.1/android-arm": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17242,6 +17404,15 @@
       }
     },
     "net7.0-maccatalyst16.1/android-arm64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17426,6 +17597,15 @@
       }
     },
     "net7.0-maccatalyst16.1/android-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17610,6 +17790,15 @@
       }
     },
     "net7.0-maccatalyst16.1/android-x86": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17794,6 +17983,15 @@
       }
     },
     "net7.0-maccatalyst16.1/iossimulator-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17978,6 +18176,15 @@
       }
     },
     "net7.0-maccatalyst16.1/maccatalyst-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18162,6 +18369,15 @@
       }
     },
     "net7.0-maccatalyst16.1/win10-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18346,6 +18562,15 @@
       }
     },
     "net7.0-windows10.0.19041": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18668,6 +18893,15 @@
       }
     },
     "net7.0-windows10.0.19041/android-arm": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18962,6 +19196,15 @@
       }
     },
     "net7.0-windows10.0.19041/android-arm64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19256,6 +19499,15 @@
       }
     },
     "net7.0-windows10.0.19041/android-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19550,6 +19802,15 @@
       }
     },
     "net7.0-windows10.0.19041/android-x86": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19844,6 +20105,15 @@
       }
     },
     "net7.0-windows10.0.19041/iossimulator-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -20138,6 +20408,15 @@
       }
     },
     "net7.0-windows10.0.19041/maccatalyst-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -20432,6 +20711,15 @@
       }
     },
     "net7.0-windows10.0.19041/win10-x64": {
+      "ColorUtility/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/ColorUtility.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/ColorUtility.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -20733,6 +21021,19 @@
     }
   },
   "libraries": {
+    "ColorUtility/1.0.0": {
+      "sha512": "DArt3oid8NfhiSsd1AoB6EyQqdZf6zCOytjTS4z7YuKD34CbmZ9gKSfo0LDKGq+e9Z3rI7tOVSBMxiggImx4CQ==",
+      "type": "package",
+      "path": "colorutility/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "colorutility.1.0.0.nupkg.sha512",
+        "colorutility.nuspec",
+        "lib/net5.0/ColorUtility.dll"
+      ]
+    },
     "GoogleGson/2.9.1.1": {
       "sha512": "OreKEL2Yx2u8YhRqv0e+j45cEzoe+fyMEzGN+M/vfBDPsIXQcA6lGdHXO07bTrGn6NNwxY67dyIfbyXx3A7cDA==",
       "type": "package",
@@ -23966,6 +24267,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0-android33.0": [
+      "ColorUtility >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -23985,6 +24287,7 @@
       "Xamarin.Google.Crypto.Tink.Android >= 1.7.0.1"
     ],
     "net7.0-ios16.1": [
+      "ColorUtility >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -23993,6 +24296,7 @@
       "Microsoft.Maui.Graphics >= 7.0.86"
     ],
     "net7.0-maccatalyst16.1": [
+      "ColorUtility >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -24001,6 +24305,7 @@
       "Microsoft.Maui.Graphics >= 7.0.86"
     ],
     "net7.0-windows10.0.19041": [
+      "ColorUtility >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -24073,6 +24378,10 @@
       "net7.0-android33.0": {
         "targetAlias": "net7.0-android",
         "dependencies": {
+          "ColorUtility": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -24191,6 +24500,10 @@
       "net7.0-ios16.1": {
         "targetAlias": "net7.0-ios",
         "dependencies": {
+          "ColorUtility": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -24254,6 +24567,10 @@
       "net7.0-maccatalyst16.1": {
         "targetAlias": "net7.0-maccatalyst",
         "dependencies": {
+          "ColorUtility": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -24318,6 +24635,10 @@
       "net7.0-windows10.0.19041": {
         "targetAlias": "net7.0-windows10.0.19041.0",
         "dependencies": {
+          "ColorUtility": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
